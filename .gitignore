@@ -1,0 +1,17 @@
+# Environnement virtuel & Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset volumineux (ne pas envoyer les images)
+data/raw/
+data/processed/
+data/temp/
+
+# Fichiers checkpoints / poids du modèle (si trop lourds)
+checkpoints/*.pth
+
+# VS Code / Système
+.vscode/
+.DS_Store
