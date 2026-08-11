@@ -1,6 +1,6 @@
 # ☀️ Inspection Automatisée de Panneaux Solaires par Deep Learning
 
-Projet de fin de module en **Vision par Ordinateur** & **Deep Learning** axé sur la maintenance prédictive des installations photovoltaïques. Cette application permet d'analyser des images d'Électroluminescence (EL) pour détecter les micro-fissures et défauts internes sur des cellules solaires.
+Projet de fin de module en **Advanced Practical Machine Learning** axé sur la maintenance prédictive des installations photovoltaïques. Cette application permet d'analyser des images d'Électroluminescence (EL) pour détecter les micro-fissures et défauts internes sur des cellules solaires.
 
 ---
 
